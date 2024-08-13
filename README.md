@@ -6,6 +6,10 @@
 
 O objetivo desta tarefa é desenvolver um sistema de gerenciamento de estacionamento robusto e eficiente. Isso incluirá a realização de um levantamento detalhado de requisitos junto ao cliente, seguido pela definição precisa das especificações técnicas. Essas especificações serão então repassadas à equipe de back-end para implementação, garantindo que todas as funcionalidades essenciais sejam atendidas e que o sistema seja escalável, seguro e de fácil manutenção.
 
+![RestAPI-Parking drawio](https://github.com/user-attachments/assets/42dea5de-9d20-48dd-9373-7f5eb3bab3d4)
+
+
+
 Nesta primeira versão temos os seguintes requisitos a serem desenvolvidos:
 
 #### 1 - Requisitos e configuração
