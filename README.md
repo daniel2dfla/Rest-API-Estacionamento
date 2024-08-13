@@ -10,10 +10,10 @@ Nesta primeira versão temos os seguintes requisitos a serem desenvolvidos:
 
 #### 1 - Requisitos e configuração
 
-- [ ] A API deverá ser configurada com o Timezone do país.
-- [ ] A API deverá ser configurada com o Locale do país.
-- [ ] Implementar um sistema de auditoria que registre a data de criação e última modificação dos registros, bem como os usuários responsáveis.
-- [ ] Estabelecer a conexão com o banco de dados no ambiente de desenvolvimento.
+- [X] A API deverá ser configurada com o Timezone do país.
+- [X] A API deverá ser configurada com o Locale do país.
+- [X] Implementar um sistema de auditoria que registre a data de criação e última modificação dos registros, bem como os usuários responsáveis.
+- [X] Estabelecer a conexão com o banco de dados no ambiente de desenvolvimento.
 
 #### 2 - Gerenciamento de Usuários
 
