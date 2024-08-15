@@ -21,8 +21,8 @@ Nesta primeira versão temos os seguintes requisitos a serem desenvolvidos:
 
 #### 2 - Gerenciamento de Usuários
 
-- [ ] O sistema deve permitir a criação de usuários com email único, que será utilizado como username, e senha de no mínimo 6 caracteres.
-- [ ] O usuário deve possuir um perfil que pode ser "administrador" ou "cliente".
+- [X] O sistema deve permitir a criação de usuários com email único, que será utilizado como username, e senha de no mínimo 6 caracteres.
+- [X] O usuário deve possuir um perfil que pode ser "administrador" ou "cliente".
 - [ ] O administrador autenticado terá permissões para gerenciar todos os usuários, enquanto o cliente só poderá acessar seus próprios dados.
 - [ ] A API deve permitir a recuperação de usuários por identificador, alteração de senha (apenas pelo próprio usuário autenticado), e listagem de todos os usuários por administradores autenticados.
 - [ ] Todos os recursos devem ser documentados e testados.
