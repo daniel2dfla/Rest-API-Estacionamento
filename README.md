@@ -1,6 +1,6 @@
 # Rest-API-Estacionamento
 
-#### Status do projeto: em progresso.
+#### Status do projeto: em progresso. Última atualização: (14/08/2024).
 
 ## Descrição
 
